@@ -1,0 +1,11 @@
+{
+  "name": "sequelize-demo",
+  "version": "1.0.0",
+  "description": "A tiny project to learn Sequelize basics",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "dependencies": {
+    "sequelize": "^6.37.0",
+    "sqlite3": "^5.1.7"
+  }
+}
